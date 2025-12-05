@@ -4,7 +4,7 @@ A production-grade, fully functional Kanban Board View component built with Reac
 
 ## 🚀 Live Storybook
 
-[Deploy your Storybook and add the link here]
+uzence-design-studio-six.vercel.app
 
 ## 📦 Installation
 
