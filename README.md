@@ -4,9 +4,7 @@ A production-grade, fully functional Kanban Board View component built with Reac
 
 ## 🚀 Live Storybook
 
-[View Live Storybook on Vercel](https://uzence-design-studio.vercel.app)
-
-*Note: Update this link after deployment*
+[Deploy your Storybook and add the link here]
 
 ## 📦 Installation
 
@@ -197,43 +195,6 @@ The component is demonstrated through Storybook stories. Each story tests differ
 - Interactive interactions
 - Mobile responsiveness
 - Accessibility features
-
-## 🚀 Deployment to Vercel
-
-This project is configured for easy deployment to Vercel:
-
-### Option 1: Deploy via Vercel Dashboard
-
-1. Go to [vercel.com](https://vercel.com) and sign in with your GitHub account
-2. Click "Add New Project"
-3. Import your GitHub repository: `PrathamJain2002/Uzence-Design-Studio`
-4. Vercel will automatically detect the configuration from `vercel.json`
-5. Click "Deploy"
-
-### Option 2: Deploy via Vercel CLI
-
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy
-vercel
-
-# For production deployment
-vercel --prod
-```
-
-### Configuration
-
-The project includes a `vercel.json` file that configures:
-- **Build Command**: `npm run build-storybook`
-- **Output Directory**: `storybook-static`
-- **Framework**: Static site (Storybook)
-
-After deployment, your Storybook will be available at a Vercel URL like:
-`https://uzence-design-studio.vercel.app`
-
-Update the Live Storybook link in the README with your actual Vercel deployment URL.
 
 ## 📄 License
 
