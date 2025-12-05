@@ -5,7 +5,7 @@
   "description": "Kanban Board View - Interactive UI Component",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "npm run build-storybook",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
